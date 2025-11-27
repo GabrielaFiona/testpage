@@ -1,0 +1,27 @@
+body {
+  background: #fff0f6;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #a21caf;
+}
+
+#message {
+  color: #86198f;
+  font-size: 18px;
+}
+
+.box {
+  margin-top: 20px;
+  width: 200px;
+  height: 100px;
+  background: #ec4899;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  font-weight: bold;
+}
